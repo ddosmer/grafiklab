@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 private void button1_Click(object sender, EventArgs e)
 {
     Graphics g = Graphics.FromImage(newBitmap);
